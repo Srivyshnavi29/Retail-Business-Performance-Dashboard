@@ -24,7 +24,7 @@ This project is a **real-time, end-to-end data analytics solution** for a simula
 |-------------------|-------------|
 |  How are total sales trending week over week? | Line Chart (Page 1) |
 |  Which store performed best overall? | Column Chart (Page 1) |
-| 🏷 Which department drives the most revenue? | Bar Chart (Page 2) |
+|  Which department drives the most revenue? | Bar Chart (Page 2) |
 |  Are there seasonal spikes or drops in sales? | Monthly Trend Line (Page 1) |
 |  Which region is underperforming? | Region Sales Pie Chart (Page 1) |
 |  Which region sells which departments the most? | Matrix (Page 2) |
