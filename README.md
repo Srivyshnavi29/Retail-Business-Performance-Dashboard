@@ -43,7 +43,7 @@ This project is a **real-time, end-to-end data analytics solution** for a simula
 - 📍 Sales by Store and Region
 - 🎛️ Slicers for Store, Region, Year
 
-![Executive Summary](Sheet1.png)
+![Executive Summary](sheet1.png)
 
 ---
 
@@ -54,7 +54,7 @@ This project is a **real-time, end-to-end data analytics solution** for a simula
 - 📊 Region x Department Matrix View
 - 🎛️ Department and Month Slicers
 
-![Operational Insights](Sheet2.png)
+![Operational Insights](sheet2.png)
 
 ---
 
